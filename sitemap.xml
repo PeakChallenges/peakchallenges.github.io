@@ -23,42 +23,67 @@
   </url>
   
   <url>
-    <loc>/trainings/faculty/10_peak_learning/</loc>
+    <loc>/trainings/faculty/100_peak_learning/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/faculty/20_class_intro/</loc>
+    <loc>/trainings/faculty/220_class_intro/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/faculty/30_class_peer_review/</loc>
+    <loc>/trainings/faculty/230_class_peer_review/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/faculty/40_class_tracking_work/</loc>
+    <loc>/trainings/faculty/240_class_tracking_work/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/faculty/60_class_demos/</loc>
+    <loc>/trainings/faculty/250_class_iterations_feedback/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/faculty/80_schoolwide/</loc>
+    <loc>/trainings/faculty/260_class_demos/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/faculty/50_class_iterations_feedback/</loc>
+    <loc>/trainings/faculty/270_class_ed_agile_roles/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/faculty/70_class_ed_agile_roles/</loc>
+    <loc>/trainings/faculty/310_school_home/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/trainings/faculty/410_prodev_agile/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/trainings/faculty/430_prodev_blended_mastery/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/trainings/faculty/510_tools_kanban/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/trainings/faculty/420_prodev_teacherless_observations/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/trainings/faculty/320_school_find_way/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
@@ -84,7 +109,22 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/peak_learning/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/pricing/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/training/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
