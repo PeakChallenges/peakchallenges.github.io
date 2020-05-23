@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robotics | Peak Challenges</title>
+    <link>/tag/robotics/</link>
+      <atom:link href="/tag/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robotics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 May 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu03daf2b5ac51fd5e97da0fc2e3a0f1cd_98650_300x300_fit_lanczos_2.png</url>
+      <title>Robotics</title>
+      <link>/tag/robotics/</link>
+    </image>
+    
+    <item>
+      <title>LETS ClimateCase</title>
+      <link>/publication/lets_climate_case_laser_report_2015/</link>
+      <pubDate>Thu, 14 May 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/lets_climate_case_laser_report_2015/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;climate_case_profile.jpeg&#34; alt=&#34;Climate Case Profile&#34;&gt;
+&lt;img src=&#34;climate_case_electronics.jpeg&#34; alt=&#34;Climate Case Electronics&#34;&gt;
+&lt;img src=&#34;climate_case_internal.jpeg&#34; alt=&#34;Climate Case Grow Space&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Student | Peak Challenges</title>
+    <link>/category/student/</link>
+      <atom:link href="/category/student/index.xml" rel="self" type="application/rss+xml" />
+    <description>Student</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 23 May 2020 11:02:14 +0200</lastBuildDate>
+    <image>
+      <url>/images/logo_hu03daf2b5ac51fd5e97da0fc2e3a0f1cd_98650_300x300_fit_lanczos_2.png</url>
+      <title>Student</title>
+      <link>/category/student/</link>
+    </image>
+    
+    <item>
+      <title>Peak Challenges</title>
+      <link>/project/peak_challenges/</link>
+      <pubDate>Sat, 23 May 2020 11:02:14 +0200</pubDate>
+      <guid>/project/peak_challenges/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

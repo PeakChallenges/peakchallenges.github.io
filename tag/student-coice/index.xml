@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Student Coice | Peak Challenges</title>
+    <link>/tag/student-coice/</link>
+      <atom:link href="/tag/student-coice/index.xml" rel="self" type="application/rss+xml" />
+    <description>Student Coice</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu03daf2b5ac51fd5e97da0fc2e3a0f1cd_98650_300x300_fit_lanczos_2.png</url>
+      <title>Student Coice</title>
+      <link>/tag/student-coice/</link>
+    </image>
+    
+    <item>
+      <title>Patient Explanations Lead to Good Things</title>
+      <link>/publication/patient_explanations_spotlight_article/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/patient_explanations_spotlight_article/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

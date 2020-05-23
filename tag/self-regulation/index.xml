@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>self-regulation | Peak Challenges</title>
+    <link>/tag/self-regulation/</link>
+      <atom:link href="/tag/self-regulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>self-regulation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 23 May 2020 11:02:14 +0200</lastBuildDate>
+    <image>
+      <url>/images/logo_hu03daf2b5ac51fd5e97da0fc2e3a0f1cd_98650_300x300_fit_lanczos_2.png</url>
+      <title>self-regulation</title>
+      <link>/tag/self-regulation/</link>
+    </image>
+    
+    <item>
+      <title>Peak Challenges</title>
+      <link>/project/peak_challenges/</link>
+      <pubDate>Sat, 23 May 2020 11:02:14 +0200</pubDate>
+      <guid>/project/peak_challenges/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patient Explanations Lead to Good Things</title>
+      <link>/publication/patient_explanations_spotlight_article/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/patient_explanations_spotlight_article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting Agile at School</title>
+      <link>/publication/getting_agile_at_school_chapter/</link>
+      <pubDate>Tue, 16 Apr 2019 18:04:29 +0200</pubDate>
+      <guid>/publication/getting_agile_at_school_chapter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project Based | Peak Challenges</title>
+    <link>/tag/project-based/</link>
+      <atom:link href="/tag/project-based/index.xml" rel="self" type="application/rss+xml" />
+    <description>Project Based</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 16 Apr 2019 18:04:29 +0200</lastBuildDate>
+    <image>
+      <url>/images/logo_hu03daf2b5ac51fd5e97da0fc2e3a0f1cd_98650_300x300_fit_lanczos_2.png</url>
+      <title>Project Based</title>
+      <link>/tag/project-based/</link>
+    </image>
+    
+    <item>
+      <title>Getting Agile at School</title>
+      <link>/publication/getting_agile_at_school_chapter/</link>
+      <pubDate>Tue, 16 Apr 2019 18:04:29 +0200</pubDate>
+      <guid>/publication/getting_agile_at_school_chapter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meaningful Context | Peak Challenges</title>
+    <link>/tag/meaningful-context/</link>
+      <atom:link href="/tag/meaningful-context/index.xml" rel="self" type="application/rss+xml" />
+    <description>Meaningful Context</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu03daf2b5ac51fd5e97da0fc2e3a0f1cd_98650_300x300_fit_lanczos_2.png</url>
+      <title>Meaningful Context</title>
+      <link>/tag/meaningful-context/</link>
+    </image>
+    
+    <item>
+      <title>Importance of Challenge: Engaged, Deep Learning</title>
+      <link>/publication/importance_of_challenge_tieonline/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/importance_of_challenge_tieonline/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
