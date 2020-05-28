@@ -3,158 +3,163 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/trainings/student/</loc>
+    <loc>/peak_challenges/</loc>
     <lastmod>2020-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/student/110_activity_piano_lessons/</loc>
+    <loc>/peak_challenges/110_activity_piano_lessons/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/student/120_activity_chess/</loc>
+    <loc>/peak_challenges/120_activity_chess/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/student/130_activity_creative_writing/</loc>
+    <loc>/peak_challenges/130_activity_creative_writing/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/student/140_activity_drawing/</loc>
+    <loc>/peak_challenges/140_activity_drawing/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/student/150_activity_home_composting/</loc>
+    <loc>/peak_challenges/150_activity_home_composting/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/student/160_activity_illustrated_maps/</loc>
+    <loc>/peak_challenges/160_activity_illustrated_maps/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/student/170_activity_i_naturalist/</loc>
+    <loc>/peak_challenges/170_activity_i_naturalist/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/student/180_activity_duolingo/</loc>
+    <loc>/peak_challenges/180_activity_duolingo/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/student/190_activity_music_composition/</loc>
+    <loc>/peak_challenges/190_activity_music_composition/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/student/200_activity_scavenger_hunt/</loc>
+    <loc>/peak_challenges/200_activity_scavenger_hunt/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/student/210_activity_self_portrait_triptych/</loc>
+    <loc>/peak_challenges/210_activity_self_portrait_triptych/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/student/220_activity_language_learning/</loc>
+    <loc>/peak_challenges/220_activity_language_learning/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/student/230_activity_touch_typing/</loc>
+    <loc>/peak_challenges/230_activity_touch_typing/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/faculty/</loc>
+    <loc>/peak_classrooms/</loc>
     <lastmod>2020-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/faculty/100_peak_learning/</loc>
+    <loc>/peak_classrooms/100_peak_learning/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/faculty/220_class_intro/</loc>
+    <loc>/peak_classrooms/220_class_intro/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/faculty/230_class_peer_review/</loc>
+    <loc>/peak_classrooms/230_class_peer_review/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/faculty/240_class_tracking_work/</loc>
+    <loc>/peak_classrooms/240_class_tracking_work/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/faculty/250_class_iterations_feedback/</loc>
+    <loc>/peak_classrooms/250_class_iterations_feedback/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/faculty/260_class_demos/</loc>
+    <loc>/peak_classrooms/260_class_demos/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/faculty/270_class_ed_agile_roles/</loc>
+    <loc>/peak_classrooms/270_class_ed_agile_roles/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/faculty/310_school_home/</loc>
+    <loc>/peak_classrooms/310_school_home/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/faculty/410_prodev_agile/</loc>
+    <loc>/peak_classrooms/410_prodev_agile/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/faculty/430_prodev_blended_mastery/</loc>
+    <loc>/peak_classrooms/430_prodev_blended_mastery/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/faculty/510_tools_kanban/</loc>
+    <loc>/peak_classrooms/510_tools_kanban/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/faculty/420_prodev_teacherless_observations/</loc>
+    <loc>/peak_classrooms/420_prodev_teacherless_observations/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/faculty/320_school_find_way/</loc>
+    <loc>/peak_classrooms/320_school_find_way/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/admins/</loc>
+    <loc>/peak_schools/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/admins/example1/</loc>
+    <loc>/peak_schools/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/admins/example2/</loc>
+    <loc>/peak_schools/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/administration/</loc>
+    <lastmod>2020-05-23T11:02:14+02:00</lastmod>
   </url>
   
   <url>
@@ -188,6 +193,16 @@
   </url>
   
   <url>
+    <loc>/tag/faculty/</loc>
+    <lastmod>2020-05-23T11:02:14+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/faculty/</loc>
+    <lastmod>2020-05-23T11:02:14+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/kanban/</loc>
     <lastmod>2020-05-23T11:02:14+02:00</lastmod>
   </url>
@@ -198,12 +213,27 @@
   </url>
   
   <url>
-    <loc>/project/peak_challenges/</loc>
+    <loc>/product/peak_challenges/</loc>
     <lastmod>2020-05-23T11:02:14+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>/product/peak_classrooms/</loc>
+    <lastmod>2020-05-23T11:02:14+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/product/peak_schools/</loc>
+    <lastmod>2020-05-23T11:02:14+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/product/</loc>
+    <lastmod>2020-05-23T11:02:14+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/professional-development/</loc>
     <lastmod>2020-05-23T11:02:14+02:00</lastmod>
   </url>
   
@@ -218,6 +248,11 @@
   </url>
   
   <url>
+    <loc>/tag/student/</loc>
+    <lastmod>2020-05-23T11:02:14+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/category/student/</loc>
     <lastmod>2020-05-23T11:02:14+02:00</lastmod>
   </url>
@@ -228,12 +263,37 @@
   </url>
   
   <url>
+    <loc>/tag/blog/</loc>
+    <lastmod>2020-05-23T10:34:47+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/collaboration/</loc>
+    <lastmod>2020-05-23T10:34:47+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/collaboration/ecis/</loc>
+    <lastmod>2020-05-23T10:34:47+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/education/</loc>
     <lastmod>2020-05-23T10:34:47+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/innclass/</loc>
+    <loc>/collaboration/innclass/</loc>
+    <lastmod>2020-05-23T10:34:47+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/international/</loc>
+    <lastmod>2020-05-23T10:34:47+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/international/</loc>
     <lastmod>2020-05-23T10:34:47+02:00</lastmod>
   </url>
   
@@ -243,18 +303,13 @@
   </url>
   
   <url>
-    <loc>/category/professional-development/</loc>
-    <lastmod>2020-05-23T10:34:47+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/sharing/</loc>
     <lastmod>2020-05-23T10:34:47+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/trainings/</loc>
-    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+    <loc>/collaboration/tie/</loc>
+    <lastmod>2020-05-23T10:34:47+02:00</lastmod>
   </url>
   
   <url>
@@ -443,11 +498,6 @@
   </url>
   
   <url>
-    <loc>/pricing/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/training/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
@@ -554,7 +604,7 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/thoughts/</loc>
   </url>
   
   <url>
