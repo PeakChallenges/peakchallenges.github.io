@@ -158,32 +158,102 @@
   </url>
   
   <url>
+    <loc>/tag/adventure/</loc>
+    <lastmod>2020-05-30T16:57:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/agile/</loc>
+    <lastmod>2020-05-30T16:57:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-05-30T16:57:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/bill-tihen/</loc>
+    <lastmod>2020-05-30T16:57:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-05-30T16:57:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/classroom/</loc>
+    <lastmod>2020-05-30T16:57:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/edgility/</loc>
+    <lastmod>2020-05-30T16:57:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/education/</loc>
+    <lastmod>2020-05-30T16:57:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/engagement/</loc>
+    <lastmod>2020-05-30T16:57:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/exploration/</loc>
+    <lastmod>2020-05-30T16:57:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/edgility_classroom_exploration/</loc>
+    <lastmod>2020-05-30T16:57:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/joy/</loc>
+    <lastmod>2020-05-30T16:57:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/paul-magunson/</loc>
+    <lastmod>2020-05-30T16:57:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2020-05-30T16:57:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/student/</loc>
+    <lastmod>2020-05-30T16:57:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/student-choice/</loc>
+    <lastmod>2020-05-30T16:57:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-05-30T16:57:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/trust/</loc>
+    <lastmod>2020-05-30T16:57:16+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/administration/</loc>
     <lastmod>2020-05-23T11:02:14+02:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/agile/</loc>
-    <lastmod>2020-05-23T11:02:14+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-05-23T11:02:14+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/bill-tihen/</loc>
-    <lastmod>2020-05-23T11:02:14+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-05-23T11:02:14+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/education/</loc>
     <lastmod>2020-05-23T11:02:14+02:00</lastmod>
   </url>
   
@@ -248,17 +318,7 @@
   </url>
   
   <url>
-    <loc>/tag/student/</loc>
-    <lastmod>2020-05-23T11:02:14+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/category/student/</loc>
-    <lastmod>2020-05-23T11:02:14+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-05-23T11:02:14+02:00</lastmod>
   </url>
   
@@ -348,11 +408,6 @@
   </url>
   
   <url>
-    <loc>/tag/student-choice/</loc>
-    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/uplift_and_explore_build_confidence_tieonline/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url>
@@ -368,22 +423,12 @@
   </url>
   
   <url>
-    <loc>/tag/engagement/</loc>
-    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/natural-assessment/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/non-judgemental/</loc>
-    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/paul-magunson/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -606,10 +651,6 @@
   
   <url>
     <loc>/author/peak-challenges/</loc>
-  </url>
-  
-  <url>
-    <loc>/blog/</loc>
   </url>
   
   <url>

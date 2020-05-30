@@ -1,20 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Elliott Hébert | Peak Challenges</title>
+    <title>Elliott Hebert | Peak Challenges</title>
     <link>/author/elliott-hebert/</link>
       <atom:link href="/author/elliott-hebert/index.xml" rel="self" type="application/rss+xml" />
-    <description>Elliott Hébert</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <description>Elliott Hebert</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 23 May 2020 11:02:14 +0200</lastBuildDate>
     <image>
-      <url>/author/elliott-hebert/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q90_lanczos_center.jpg</url>
-      <title>Elliott Hébert</title>
+      <url>/images/logo_hu03daf2b5ac51fd5e97da0fc2e3a0f1cd_98650_300x300_fit_lanczos_2.png</url>
+      <title>Elliott Hebert</title>
       <link>/author/elliott-hebert/</link>
     </image>
-    
-  </channel>
-</rss>
-image>
     
     <item>
       <title>Peak Challenges</title>
