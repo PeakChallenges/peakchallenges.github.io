@@ -13,10 +13,19 @@
     </image>
     
     <item>
-      <title>ECIS</title>
-      <link>/collaboration/ecis/</link>
+      <title>ECIS Blog</title>
+      <link>/collaboration/ecis_blog/</link>
       <pubDate>Sat, 23 May 2020 10:34:47 +0200</pubDate>
-      <guid>/collaboration/ecis/</guid>
+      <guid>/collaboration/ecis_blog/</guid>
+      <description>&lt;p&gt;Founded in 1965, the Educational Collaborative for International Schools is a non-profit global membership organisation that supports schools in the areas of teacher development, leadership development, recruitment and human resources, governance and risk, complemented by grants and awards.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ECIS Webinars</title>
+      <link>/collaboration/ecis_webinars/</link>
+      <pubDate>Sat, 23 May 2020 10:34:47 +0200</pubDate>
+      <guid>/collaboration/ecis_webinars/</guid>
       <description>&lt;p&gt;Founded in 1965, the Educational Collaborative for International Schools is a non-profit global membership organisation that supports schools in the areas of teacher development, leadership development, recruitment and human resources, governance and risk, complemented by grants and awards.&lt;/p&gt;
 </description>
     </item>
