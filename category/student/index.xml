@@ -13,23 +13,23 @@
     </image>
     
     <item>
-      <title>Peak Challenges</title>
-      <link>/product/peak_challenges/</link>
+      <title>Admin Challenges</title>
+      <link>/product/admin_challenges/</link>
       <pubDate>Sat, 23 May 2020 11:02:14 +0200</pubDate>
-      <guid>/product/peak_challenges/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Peak Schools</title>
-      <link>/product/peak_schools/</link>
-      <pubDate>Sat, 23 May 2020 11:02:14 +0200</pubDate>
-      <guid>/product/peak_schools/</guid>
+      <guid>/product/admin_challenges/</guid>
       <description>&lt;p&gt;Climb to the peaks of the Swiss Alps just east of Lake Geneva through taking on activities and projects.  You choose which ones - choice and exploration is left up to you. All we ask is that each day, for five days in a row, you keep track of the activities you are working on. We’ll let you know what we want you to try. We think you’ll like a couple of them well enough that you’ll use them for other activities and projects in your life - for class, clubs, hobbies, and sports, for example.&lt;/p&gt;
 &lt;p&gt;At the end of the five days, depending on how busy you’ve been, we’ll give you the title of Alpinist, Climber, Hiker, or Tourist. All are absolutely acceptable ways to enjoy the Swiss Alps.&lt;/p&gt;
 &lt;p&gt;Challenge yourself - some of those peaks are right up there in the clouds!&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;/peak_schools/&#34;&gt;Get Started&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Student Challenges</title>
+      <link>/product/student_challenges/</link>
+      <pubDate>Sat, 23 May 2020 11:02:14 +0200</pubDate>
+      <guid>/product/student_challenges/</guid>
+      <description></description>
     </item>
     
   </channel>

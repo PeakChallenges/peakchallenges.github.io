@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Peak Challenges</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 30 May 2020 16:57:16 +0200</lastBuildDate>
     <image>
       <url>/images/logo_hu03daf2b5ac51fd5e97da0fc2e3a0f1cd_98650_300x300_fit_lanczos_2.png</url>
       <title>Peak Challenges</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Beginning Piano Lessons</title>
-      <link>/peak_challenges/110_activity_piano_lessons/</link>
+      <link>/challenges/student_challenges/110_activity_piano_lessons/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/peak_challenges/110_activity_piano_lessons/</guid>
+      <guid>/challenges/student_challenges/110_activity_piano_lessons/</guid>
       <description>&lt;h2 id=&#34;committment&#34;&gt;Committment&lt;/h2&gt;
 &lt;p&gt;20 minutes, live one-on-one lesson, once or twice weekly.&lt;/p&gt;
 &lt;h2 id=&#34;prerequisite&#34;&gt;Prerequisite&lt;/h2&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Chess</title>
-      <link>/peak_challenges/120_activity_chess/</link>
+      <link>/challenges/student_challenges/120_activity_chess/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/peak_challenges/120_activity_chess/</guid>
+      <guid>/challenges/student_challenges/120_activity_chess/</guid>
       <description>&lt;h2 id=&#34;committment&#34;&gt;Committment&lt;/h2&gt;
 &lt;p&gt;Synchronous, using WhatsApp to share moves with standard algebraic notation &lt;em&gt;(e.g. Nxd5 - no worries if you don’t know what this is - super easy to learn)&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;prerequisite&#34;&gt;Prerequisite&lt;/h2&gt;
@@ -67,9 +67,9 @@
     
     <item>
       <title>Creative Writing</title>
-      <link>/peak_challenges/130_activity_creative_writing/</link>
+      <link>/challenges/student_challenges/130_activity_creative_writing/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/peak_challenges/130_activity_creative_writing/</guid>
+      <guid>/challenges/student_challenges/130_activity_creative_writing/</guid>
       <description>&lt;h2 id=&#34;committment&#34;&gt;Committment&lt;/h2&gt;
 &lt;p&gt;Asynchronous&lt;/p&gt;
 &lt;h2 id=&#34;prerequisite&#34;&gt;Prerequisite&lt;/h2&gt;
@@ -114,9 +114,9 @@
     
     <item>
       <title>Drawing</title>
-      <link>/peak_challenges/140_activity_drawing/</link>
+      <link>/challenges/student_challenges/140_activity_drawing/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/peak_challenges/140_activity_drawing/</guid>
+      <guid>/challenges/student_challenges/140_activity_drawing/</guid>
       <description>&lt;h2 id=&#34;committment&#34;&gt;Committment&lt;/h2&gt;
 &lt;p&gt;Synchronous (or Asynchronous)&lt;/p&gt;
 &lt;p&gt;Drawings shared via Google Drive. Comments by participants to other participants shared via Google doc. Daily drawing challenge at this site. Live daily lesson at 14.00 Eastern time, 20.00 Swiss time, lessons also accessible at other times.&lt;/p&gt;
@@ -143,9 +143,9 @@
     
     <item>
       <title>Home Composting</title>
-      <link>/peak_challenges/150_activity_home_composting/</link>
+      <link>/challenges/student_challenges/150_activity_home_composting/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/peak_challenges/150_activity_home_composting/</guid>
+      <guid>/challenges/student_challenges/150_activity_home_composting/</guid>
       <description>&lt;h2 id=&#34;committment&#34;&gt;Committment&lt;/h2&gt;
 &lt;p&gt;Asynchronous&lt;/p&gt;
 &lt;p&gt;Something fun and easy to build (after you’ve ordered the two basic materials) and something that you can continue experimenting with long after you’ve built it. It’s also a little easier on the environment, which all of us can appreciate.&lt;/p&gt;
@@ -167,9 +167,9 @@
     
     <item>
       <title>Illustrated Maps</title>
-      <link>/peak_challenges/160_activity_illustrated_maps/</link>
+      <link>/challenges/student_challenges/160_activity_illustrated_maps/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/peak_challenges/160_activity_illustrated_maps/</guid>
+      <guid>/challenges/student_challenges/160_activity_illustrated_maps/</guid>
       <description>&lt;h2 id=&#34;committment&#34;&gt;Committment&lt;/h2&gt;
 &lt;p&gt;Asynchronous, drawings and peer comments shared via Padlet.&lt;/p&gt;
 &lt;h2 id=&#34;prerequisite&#34;&gt;Prerequisite&lt;/h2&gt;
@@ -194,9 +194,9 @@
     
     <item>
       <title>iNaturalist</title>
-      <link>/peak_challenges/170_activity_i_naturalist/</link>
+      <link>/challenges/student_challenges/170_activity_i_naturalist/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/peak_challenges/170_activity_i_naturalist/</guid>
+      <guid>/challenges/student_challenges/170_activity_i_naturalist/</guid>
       <description>&lt;h2 id=&#34;committment&#34;&gt;Committment&lt;/h2&gt;
 &lt;p&gt;Asynchronous, using the app iNaturalist. You take pictures, identify the flora and fauna (plants and animals) in your immediate area, and add to the worldwide database.&lt;/p&gt;
 &lt;h2 id=&#34;prerequisite&#34;&gt;Prerequisite&lt;/h2&gt;
@@ -217,9 +217,9 @@
     
     <item>
       <title>Explore with DuoLingo</title>
-      <link>/peak_challenges/180_activity_duolingo/</link>
+      <link>/challenges/student_challenges/180_activity_duolingo/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/peak_challenges/180_activity_duolingo/</guid>
+      <guid>/challenges/student_challenges/180_activity_duolingo/</guid>
       <description>&lt;h2 id=&#34;committment&#34;&gt;Committment&lt;/h2&gt;
 &lt;p&gt;Asynchronous, using &lt;a href=&#34;http://www.duolingo.com&#34;&gt;www.duolingo.com&lt;/a&gt; (free version just fine). Contact Paul Magnuson (&lt;a href=&#34;mailto:pmagnuson@las.ch&#34;&gt;pmagnuson@las.ch&lt;/a&gt;) or text +41-79-376-4765 when you begin and you’ll be put in a group of everyone else using Duolingo. Consider combining this activity with Touch Typing for a helpful hack.&lt;/p&gt;
 &lt;h2 id=&#34;prerequisite&#34;&gt;Prerequisite&lt;/h2&gt;
@@ -238,9 +238,9 @@
     
     <item>
       <title>Music Composition</title>
-      <link>/peak_challenges/190_activity_music_composition/</link>
+      <link>/challenges/student_challenges/190_activity_music_composition/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/peak_challenges/190_activity_music_composition/</guid>
+      <guid>/challenges/student_challenges/190_activity_music_composition/</guid>
       <description>&lt;h2 id=&#34;committment&#34;&gt;Committment&lt;/h2&gt;
 &lt;p&gt;Asynchronous, written music shared via email attachment, music shared by sound files.&lt;/p&gt;
 &lt;h2 id=&#34;prerequisite&#34;&gt;Prerequisite&lt;/h2&gt;
@@ -261,9 +261,9 @@
     
     <item>
       <title>Scavenger Hunt</title>
-      <link>/peak_challenges/200_activity_scavenger_hunt/</link>
+      <link>/challenges/student_challenges/200_activity_scavenger_hunt/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/peak_challenges/200_activity_scavenger_hunt/</guid>
+      <guid>/challenges/student_challenges/200_activity_scavenger_hunt/</guid>
       <description>&lt;h2 id=&#34;committment&#34;&gt;Committment&lt;/h2&gt;
 &lt;p&gt;Synchronous activity, through Google Hangout.&lt;/p&gt;
 &lt;p&gt;The time (or times) for the Scavenger Hunt(s) will be set up according to where you are in the world.&lt;/p&gt;
@@ -295,9 +295,9 @@
     
     <item>
       <title>Self-Portrait Triptych</title>
-      <link>/peak_challenges/210_activity_self_portrait_triptych/</link>
+      <link>/challenges/student_challenges/210_activity_self_portrait_triptych/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/peak_challenges/210_activity_self_portrait_triptych/</guid>
+      <guid>/challenges/student_challenges/210_activity_self_portrait_triptych/</guid>
       <description>&lt;h2 id=&#34;committment&#34;&gt;Committment&lt;/h2&gt;
 &lt;p&gt;Synchronous (or Asynchronous)&lt;/p&gt;
 &lt;p&gt;Drawings shared via Google Drive. Comments by participants to other participants shared via Google doc. Daily drawing challenge at this site. Live daily lesson at 14.00 Eastern time, 20.00 Swiss time, lessons also accessible at other times.&lt;/p&gt;
@@ -322,9 +322,9 @@
     
     <item>
       <title>Self-Directed Language Learning</title>
-      <link>/peak_challenges/220_activity_language_learning/</link>
+      <link>/challenges/student_challenges/220_activity_language_learning/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/peak_challenges/220_activity_language_learning/</guid>
+      <guid>/challenges/student_challenges/220_activity_language_learning/</guid>
       <description>&lt;h2 id=&#34;committment&#34;&gt;Committment&lt;/h2&gt;
 &lt;p&gt;Asynchronous&lt;/p&gt;
 &lt;h2 id=&#34;prerequisite&#34;&gt;Prerequisite&lt;/h2&gt;
@@ -360,9 +360,9 @@
     
     <item>
       <title>Touch Typing</title>
-      <link>/peak_challenges/230_activity_touch_typing/</link>
+      <link>/challenges/student_challenges/230_activity_touch_typing/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/peak_challenges/230_activity_touch_typing/</guid>
+      <guid>/challenges/student_challenges/230_activity_touch_typing/</guid>
       <description>&lt;h2 id=&#34;committment&#34;&gt;Committment&lt;/h2&gt;
 &lt;p&gt;Asynchronous, self-tracking and short check-ins with the activity leader.&lt;/p&gt;
 &lt;h2 id=&#34;prerequisite&#34;&gt;Prerequisite&lt;/h2&gt;
@@ -386,9 +386,9 @@ So what do you need to do in this activity?&lt;/p&gt;
     
     <item>
       <title>Peak Learning</title>
-      <link>/peak_classrooms/100_peak_learning/</link>
+      <link>/challenges/faculty_challenges/100_peak_learning/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/peak_classrooms/100_peak_learning/</guid>
+      <guid>/challenges/faculty_challenges/100_peak_learning/</guid>
       <description>&lt;p&gt;&lt;strong&gt;The Core of Agile in Education&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;
 &lt;p&gt;In our chapter Getting Agile at School in Agile and Lean Concepts for Teaching and Learning, four of us LAS faculty members presented what we felt at the time were the central tenets, for us, of an agile mindset in education.&lt;/p&gt;
@@ -422,9 +422,9 @@ So what do you need to do in this activity?&lt;/p&gt;
     
     <item>
       <title>Pulling Agile into Education: Examples to Learn by</title>
-      <link>/peak_classrooms/220_class_intro/</link>
+      <link>/challenges/faculty_challenges/220_class_intro/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/peak_classrooms/220_class_intro/</guid>
+      <guid>/challenges/faculty_challenges/220_class_intro/</guid>
       <description>&lt;h2 id=&#34;classroom-activities&#34;&gt;Classroom Activities&lt;/h2&gt;
 &lt;p&gt;Our examples of classroom activities span from middle school through to adults studying for their Masters in Education. Some examples read like a guide or synopsis of the lesson, some of them are first and foremost a reflection about agile principles that are supported by a classroom activity or unit.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt; Paul Magnuson, Nicola Cosgrove&lt;/p&gt;
@@ -456,9 +456,9 @@ So what do you need to do in this activity?&lt;/p&gt;
     
     <item>
       <title>Peer Review of Academic Papers</title>
-      <link>/peak_classrooms/230_class_peer_review/</link>
+      <link>/challenges/faculty_challenges/230_class_peer_review/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/peak_classrooms/230_class_peer_review/</guid>
+      <guid>/challenges/faculty_challenges/230_class_peer_review/</guid>
       <description>&lt;h2 id=&#34;agile-concepts&#34;&gt;Agile Concepts&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Kanban board&lt;/li&gt;
@@ -496,9 +496,9 @@ Questions: Paul Magnuson, &lt;a href=&#34;mailto:pmagnuson@las.ch&#34;&gt;pmagnu
     
     <item>
       <title>Reviewing and Tracking Work Completed</title>
-      <link>/peak_classrooms/240_class_tracking_work/</link>
+      <link>/challenges/faculty_challenges/240_class_tracking_work/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/peak_classrooms/240_class_tracking_work/</guid>
+      <guid>/challenges/faculty_challenges/240_class_tracking_work/</guid>
       <description>&lt;h2 id=&#34;agile-concepts&#34;&gt;Agile Concepts&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Kanban board&lt;/li&gt;
@@ -536,9 +536,9 @@ Questions: Nic Cosgrove, &lt;a href=&#34;mailto:ncosgrove@las.ch&#34;&gt;ncosgro
     
     <item>
       <title>Quick Iterations and Frequent Feedback</title>
-      <link>/peak_classrooms/250_class_iterations_feedback/</link>
+      <link>/challenges/faculty_challenges/250_class_iterations_feedback/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/peak_classrooms/250_class_iterations_feedback/</guid>
+      <guid>/challenges/faculty_challenges/250_class_iterations_feedback/</guid>
       <description>&lt;h2 id=&#34;agile-concepts&#34;&gt;Agile Concepts&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Iterations&lt;/li&gt;
@@ -568,9 +568,9 @@ Questions: Bill Tihen, &lt;a href=&#34;mailto:bil.tih@container4.ch&#34;&gt;bil.
     
     <item>
       <title>Classroom Demos</title>
-      <link>/peak_classrooms/260_class_demos/</link>
+      <link>/challenges/faculty_challenges/260_class_demos/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/peak_classrooms/260_class_demos/</guid>
+      <guid>/challenges/faculty_challenges/260_class_demos/</guid>
       <description>&lt;h2 id=&#34;agile-concepts&#34;&gt;Agile Concepts&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Review&lt;/li&gt;
@@ -600,9 +600,9 @@ Questions: Paul Magnuson, &lt;a href=&#34;mailto:pmagnuson@las.ch&#34;&gt;pmagnu
     
     <item>
       <title>Agile Roles</title>
-      <link>/peak_classrooms/270_class_ed_agile_roles/</link>
+      <link>/challenges/faculty_challenges/270_class_ed_agile_roles/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/peak_classrooms/270_class_ed_agile_roles/</guid>
+      <guid>/challenges/faculty_challenges/270_class_ed_agile_roles/</guid>
       <description>&lt;h2 id=&#34;agile-concepts&#34;&gt;Agile Concepts&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Product Owner&lt;/li&gt;
@@ -636,9 +636,9 @@ Questions: Paul Magnuson, &lt;a href=&#34;mailto:pmagnuson@las.ch&#34;&gt;pmagnu
     
     <item>
       <title>Homeroom</title>
-      <link>/peak_classrooms/310_school_home/</link>
+      <link>/challenges/faculty_challenges/310_school_home/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/peak_classrooms/310_school_home/</guid>
+      <guid>/challenges/faculty_challenges/310_school_home/</guid>
       <description>&lt;h2 id=&#34;agile-concepts&#34;&gt;Agile Concepts&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Self-regulation&lt;/li&gt;
@@ -673,9 +673,9 @@ Questions: Paul Magnuson, &lt;a href=&#34;mailto:pmagnuson@las.ch&#34;&gt;pmagnu
     
     <item>
       <title>Agile Toolkit</title>
-      <link>/peak_classrooms/410_prodev_agile/</link>
+      <link>/challenges/faculty_challenges/410_prodev_agile/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/peak_classrooms/410_prodev_agile/</guid>
+      <guid>/challenges/faculty_challenges/410_prodev_agile/</guid>
       <description>&lt;h2 id=&#34;agile-concepts&#34;&gt;Agile Concepts&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Iterations&lt;/li&gt;
@@ -700,9 +700,9 @@ Questions: Nicola Cosgrove, &lt;a href=&#34;mailto:ncosgrove@las.ch&#34;&gt;ncos
     
     <item>
       <title>Blended, Self-Paced, Mastery-Based Teaching and Learning</title>
-      <link>/peak_classrooms/430_prodev_blended_mastery/</link>
+      <link>/challenges/faculty_challenges/430_prodev_blended_mastery/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/peak_classrooms/430_prodev_blended_mastery/</guid>
+      <guid>/challenges/faculty_challenges/430_prodev_blended_mastery/</guid>
       <description>&lt;h2 id=&#34;agile-concepts&#34;&gt;Agile Concepts&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Self-regulation&lt;/li&gt;
@@ -735,9 +735,9 @@ Questions: Robert Barnett, &lt;a href=&#34;mailto:robert.barnett@modernclassroom
     
     <item>
       <title>Kanban, Trello</title>
-      <link>/peak_classrooms/510_tools_kanban/</link>
+      <link>/challenges/faculty_challenges/510_tools_kanban/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/peak_classrooms/510_tools_kanban/</guid>
+      <guid>/challenges/faculty_challenges/510_tools_kanban/</guid>
       <description>&lt;h2 id=&#34;agile-concepts&#34;&gt;Agile Concepts&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Pull systems&lt;/li&gt;
@@ -766,9 +766,9 @@ Questions: Paul Magnuson, &lt;a href=&#34;mailto:pmagnuson@las.ch&#34;&gt;pmagnu
     
     <item>
       <title>Teacherless Observations</title>
-      <link>/peak_classrooms/420_prodev_teacherless_observations/</link>
+      <link>/challenges/faculty_challenges/420_prodev_teacherless_observations/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/peak_classrooms/420_prodev_teacherless_observations/</guid>
+      <guid>/challenges/faculty_challenges/420_prodev_teacherless_observations/</guid>
       <description>&lt;h2 id=&#34;agile-concepts&#34;&gt;Agile Concepts&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Self-regulation&lt;/li&gt;
@@ -799,9 +799,9 @@ Questions: Paul Magnuson, &lt;a href=&#34;mailto:pmagnuson@las.ch&#34;&gt;pmagnu
     
     <item>
       <title>Time to Find Your Way</title>
-      <link>/peak_classrooms/320_school_find_way/</link>
+      <link>/challenges/faculty_challenges/320_school_find_way/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/peak_classrooms/320_school_find_way/</guid>
+      <guid>/challenges/faculty_challenges/320_school_find_way/</guid>
       <description>&lt;h2 id=&#34;agile-concepts&#34;&gt;Agile Concepts&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Self-regulation&lt;/li&gt;
@@ -835,9 +835,9 @@ Questions: Paul Magnuson, &lt;a href=&#34;mailto:pmagnuson@las.ch&#34;&gt;pmagnu
     
     <item>
       <title>Example Page 1</title>
-      <link>/peak_schools/example1/</link>
+      <link>/challenges/admin_challenges/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/peak_schools/example1/</guid>
+      <guid>/challenges/admin_challenges/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -856,9 +856,9 @@ Questions: Paul Magnuson, &lt;a href=&#34;mailto:pmagnuson@las.ch&#34;&gt;pmagnu
     
     <item>
       <title>Example Page 2</title>
-      <link>/peak_schools/example2/</link>
+      <link>/challenges/admin_challenges/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/peak_schools/example2/</guid>
+      <guid>/challenges/admin_challenges/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -909,18 +909,22 @@ Questions: Paul Magnuson, &lt;a href=&#34;mailto:pmagnuson@las.ch&#34;&gt;pmagnu
     </item>
     
     <item>
-      <title>Peak Challenges</title>
-      <link>/product/peak_challenges/</link>
+      <title>Admin Challenges</title>
+      <link>/product/admin_challenges/</link>
       <pubDate>Sat, 23 May 2020 11:02:14 +0200</pubDate>
-      <guid>/product/peak_challenges/</guid>
-      <description></description>
+      <guid>/product/admin_challenges/</guid>
+      <description>&lt;p&gt;Climb to the peaks of the Swiss Alps just east of Lake Geneva through taking on activities and projects.  You choose which ones - choice and exploration is left up to you. All we ask is that each day, for five days in a row, you keep track of the activities you are working on. We’ll let you know what we want you to try. We think you’ll like a couple of them well enough that you’ll use them for other activities and projects in your life - for class, clubs, hobbies, and sports, for example.&lt;/p&gt;
+&lt;p&gt;At the end of the five days, depending on how busy you’ve been, we’ll give you the title of Alpinist, Climber, Hiker, or Tourist. All are absolutely acceptable ways to enjoy the Swiss Alps.&lt;/p&gt;
+&lt;p&gt;Challenge yourself - some of those peaks are right up there in the clouds!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;/peak_schools/&#34;&gt;Get Started&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Peak Classroom</title>
-      <link>/product/peak_classrooms/</link>
+      <title>Faculty Challenges</title>
+      <link>/product/faculty_challenges/</link>
       <pubDate>Sat, 23 May 2020 11:02:14 +0200</pubDate>
-      <guid>/product/peak_classrooms/</guid>
+      <guid>/product/faculty_challenges/</guid>
       <description>&lt;p&gt;Climb to the peaks of the Swiss Alps just east of Lake Geneva through taking on activities and projects.  You choose which ones - choice and exploration is left up to you. All we ask is that each day, for five days in a row, you keep track of the activities you are working on. We’ll let you know what we want you to try. We think you’ll like a couple of them well enough that you’ll use them for other activities and projects in your life - for class, clubs, hobbies, and sports, for example.&lt;/p&gt;
 &lt;p&gt;At the end of the five days, depending on how busy you’ve been, we’ll give you the title of Alpinist, Climber, Hiker, or Tourist. All are absolutely acceptable ways to enjoy the Swiss Alps.&lt;/p&gt;
 &lt;p&gt;Challenge yourself - some of those peaks are right up there in the clouds!&lt;/p&gt;
@@ -929,15 +933,11 @@ Questions: Paul Magnuson, &lt;a href=&#34;mailto:pmagnuson@las.ch&#34;&gt;pmagnu
     </item>
     
     <item>
-      <title>Peak Schools</title>
-      <link>/product/peak_schools/</link>
+      <title>Student Challenges</title>
+      <link>/product/student_challenges/</link>
       <pubDate>Sat, 23 May 2020 11:02:14 +0200</pubDate>
-      <guid>/product/peak_schools/</guid>
-      <description>&lt;p&gt;Climb to the peaks of the Swiss Alps just east of Lake Geneva through taking on activities and projects.  You choose which ones - choice and exploration is left up to you. All we ask is that each day, for five days in a row, you keep track of the activities you are working on. We’ll let you know what we want you to try. We think you’ll like a couple of them well enough that you’ll use them for other activities and projects in your life - for class, clubs, hobbies, and sports, for example.&lt;/p&gt;
-&lt;p&gt;At the end of the five days, depending on how busy you’ve been, we’ll give you the title of Alpinist, Climber, Hiker, or Tourist. All are absolutely acceptable ways to enjoy the Swiss Alps.&lt;/p&gt;
-&lt;p&gt;Challenge yourself - some of those peaks are right up there in the clouds!&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;/peak_schools/&#34;&gt;Get Started&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>/product/student_challenges/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -972,6 +972,27 @@ Questions: Paul Magnuson, &lt;a href=&#34;mailto:pmagnuson@las.ch&#34;&gt;pmagnu
       <pubDate>Sat, 23 May 2020 10:34:47 +0200</pubDate>
       <guid>/collaboration/tie/</guid>
       <description>&lt;p&gt;Teachers and administrators share their experiences in international schools around the world&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Webinar Agility by Tim Logan</title>
+      <link>/coverage/tim_logan_ecis_agility_webinar_linkedin/</link>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/coverage/tim_logan_ecis_agility_webinar_linkedin/</guid>
+      <description>&lt;p&gt;Tim Logan posted an interesting educational agility video of his ECIS Webinar and used materials developed my Paul Magnuson &amp;amp; me.  He posted his slide deck on Trello.&lt;/p&gt;
+&lt;p&gt;Tim Logan&amp;rsquo;s video Intro into his Educational Agility webinar for ECIS.
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/N_3ZU3BINug&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;In case people don&amp;rsquo;t have a linked-in account:
+&lt;img src=&#34;tim_logan_ecis_webinar_linkedin.png&#34; alt=&#34;Linked-in Post&#34;&gt;
+&lt;a href=&#34;https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6659793273697120256/&#34;&gt;https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6659793273697120256/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In case people don&amp;rsquo;t have a trello account:
+&lt;img src=&#34;tim_logan_agile_webinar_ecis_trello.png&#34; alt=&#34;Tello Board Slides&#34;&gt;
+&lt;a href=&#34;https://trello.com/b/B5qwkjmE/webinar-agility&#34;&gt;https://trello.com/b/B5qwkjmE/webinar-agility&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1114,6 +1135,50 @@ lessons.&lt;/li&gt;
       <link>/publication/introducing_edgility_laser_report_2017/</link>
       <pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
       <guid>/publication/introducing_edgility_laser_report_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agile in Education: Bill Tihen and Paul Magnuson of Leysin American School</title>
+      <link>/coverage/agile_in_education_interview_scrum_alliance/</link>
+      <pubDate>Tue, 17 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/coverage/agile_in_education_interview_scrum_alliance/</guid>
+      <description>&lt;p&gt;A discussion with Scrum Alliance on the importance of bringing Agile into Educaion and a few important implementation points.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/cV8UQvNcN9s&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Agile in Education at Leysin American School</title>
+      <link>/coverage/agile_in_education_at_las_interview_agile_amped/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/coverage/agile_in_education_at_las_interview_agile_amped/</guid>
+      <description>&lt;p&gt;How would our education system be different using agile principles and values?&lt;/p&gt;
+&lt;p&gt;In this InDepth edition, our conversation focuses around the American School in Leysin, Switzerland, and their experiments over the past 3 yrs in Agile in Education. My guests are Paul Magnuson ( Director of Curriculum &amp;amp; Director of the Middle School) and Bill Tihen ( Director of IT, Teacher, and runs the Makers Space )
+Empowering students, making learning visible, and creating life long learners are goals for Paul and Bill as they lead this movement at Leysin.&lt;/p&gt;
+&lt;iframe width=&#34;100%&#34; height=&#34;300&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/290789833&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&#34;&gt;&lt;a href=&#34;https://soundcloud.com/agileamped&#34; title=&#34;Agile Amped&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Agile Amped&lt;/a&gt; · &lt;a href=&#34;https://soundcloud.com/agileamped/agile-in-education-at-leysin-american-school-in-switzerland&#34; title=&#34;Agile in Education at Leysin American School in Switzerland&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;Agile in Education at Leysin American School in Switzerland&lt;/a&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Agile Classrooms in the Alps</title>
+      <link>/coverage/agile_classrooms_article_agile_classrooms/</link>
+      <pubDate>Tue, 26 May 2015 00:00:00 +0000</pubDate>
+      <guid>/coverage/agile_classrooms_article_agile_classrooms/</guid>
+      <description>&lt;p&gt;To help incorporate Agile into their school, they [Paul Magnuson and Bill Tihen] brought in John Miller, a Certified Scrum Coach and Chief Empowerment Officer of Agile Classrooms, for two days of training. The Scrum Alliance has been a big supporter of John’s commitment to using Scrum to transform the world of education ever since he unveiled the first classroom to use Scrum at the Atlanta Scrum Gathering in 2010. When the Scrum Alliance, the largest Agile organization in the world, heard of Paul and Bill’s desire to implement Scrum for their students, they stepped up to sponsor the event. The Swiss Group of International Schools also co-sponsored the workshop.&lt;/p&gt;
+&lt;p&gt;The Agile Classrooms Workshop&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Climate Sensor Poles</title>
+      <link>/coverage/climate_poles_john_harlin_lets_report/</link>
+      <pubDate>Thu, 14 May 2015 00:00:00 +0000</pubDate>
+      <guid>/coverage/climate_poles_john_harlin_lets_report/</guid>
       <description></description>
     </item>
     
