@@ -223,12 +223,12 @@
   </url>
   
   <url>
-    <loc>/blog/</loc>
+    <loc>/</loc>
     <lastmod>2020-05-30T16:57:16+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/student/</loc>
+    <loc>/blog/</loc>
     <lastmod>2020-05-30T16:57:16+02:00</lastmod>
   </url>
   
@@ -304,6 +304,11 @@
   
   <url>
     <loc>/tag/smallify/</loc>
+    <lastmod>2020-05-23T11:02:14+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/student/</loc>
     <lastmod>2020-05-23T11:02:14+02:00</lastmod>
   </url>
   
@@ -409,11 +414,6 @@
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2020-04-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/reflection/</loc>
     <lastmod>2020-04-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -588,11 +588,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/peak_learning/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
@@ -624,6 +619,11 @@
   
   <url>
     <loc>/publication/introducing_edgility_laser_report_2017/</loc>
+    <lastmod>2017-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/reflection/</loc>
     <lastmod>2017-03-13T00:00:00+00:00</lastmod>
   </url>
   
