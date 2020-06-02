@@ -5,12 +5,20 @@
     <link>/publication-type/9/</link>
       <atom:link href="/publication-type/9/index.xml" rel="self" type="application/rss+xml" />
     <description>9</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Dec 2020 20:35:18 +0200</lastBuildDate>
     <image>
       <url>/images/logo_hu03daf2b5ac51fd5e97da0fc2e3a0f1cd_98650_300x300_fit_lanczos_2.png</url>
       <title>9</title>
       <link>/publication-type/9/</link>
     </image>
+    
+    <item>
+      <title>Teacherless observations</title>
+      <link>/publication/laser_teacherless_observations/</link>
+      <pubDate>Tue, 22 Dec 2020 20:35:18 +0200</pubDate>
+      <guid>/publication/laser_teacherless_observations/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Webinar Agility by Tim Logan</title>

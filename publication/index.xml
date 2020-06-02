@@ -5,12 +5,28 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Dec 2020 20:35:18 +0200</lastBuildDate>
     <image>
       <url>/images/logo_hu03daf2b5ac51fd5e97da0fc2e3a0f1cd_98650_300x300_fit_lanczos_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Teacherless observations</title>
+      <link>/publication/laser_teacherless_observations/</link>
+      <pubDate>Tue, 22 Dec 2020 20:35:18 +0200</pubDate>
+      <guid>/publication/laser_teacherless_observations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pulling Agile into Education: Examples to learn by</title>
+      <link>/publication/laser_examples_to_learn_by/</link>
+      <pubDate>Sat, 02 May 2020 20:32:53 +0200</pubDate>
+      <guid>/publication/laser_examples_to_learn_by/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Demos and Feedback in the Classroom</title>
@@ -53,6 +69,14 @@
     </item>
     
     <item>
+      <title>Unschool</title>
+      <link>/publication/concordia_worldview_unschool/</link>
+      <pubDate>Mon, 02 Dec 2019 20:34:04 +0200</pubDate>
+      <guid>/publication/concordia_worldview_unschool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Patient Explanations Lead to Good Things</title>
       <link>/publication/patient_explanations_spotlight_article/</link>
       <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
@@ -89,6 +113,14 @@
       <link>/publication/introducing_edgility_laser_report_2017/</link>
       <pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
       <guid>/publication/introducing_edgility_laser_report_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond the Classroom: Expanding the Notion of Self-regulated Learning</title>
+      <link>/publication/las_panorama_beyond_the_classroom/</link>
+      <pubDate>Thu, 02 Mar 2017 20:36:29 +0200</pubDate>
+      <guid>/publication/las_panorama_beyond_the_classroom/</guid>
       <description></description>
     </item>
     

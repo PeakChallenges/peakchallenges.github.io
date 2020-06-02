@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Peak Challenges</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 16:57:16 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Dec 2020 20:35:18 +0200</lastBuildDate>
     <image>
       <url>/images/logo_hu03daf2b5ac51fd5e97da0fc2e3a0f1cd_98650_300x300_fit_lanczos_2.png</url>
       <title>Peak Challenges</title>
@@ -708,6 +708,14 @@ Questions: Paul Magnuson, &lt;a href=&#34;mailto:pmagnuson@las.ch&#34;&gt;pmagnu
     </item>
     
     <item>
+      <title>Teacherless observations</title>
+      <link>/publication/laser_teacherless_observations/</link>
+      <pubDate>Tue, 22 Dec 2020 20:35:18 +0200</pubDate>
+      <guid>/publication/laser_teacherless_observations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Exploration in the Classroom</title>
       <link>/blog/edgility_classroom_exploration/</link>
       <pubDate>Mon, 01 Jun 2020 16:57:16 +0200</pubDate>
@@ -808,6 +816,14 @@ Questions: Paul Magnuson, &lt;a href=&#34;mailto:pmagnuson@las.ch&#34;&gt;pmagnu
     </item>
     
     <item>
+      <title>Pulling Agile into Education: Examples to learn by</title>
+      <link>/publication/laser_examples_to_learn_by/</link>
+      <pubDate>Sat, 02 May 2020 20:32:53 +0200</pubDate>
+      <guid>/publication/laser_examples_to_learn_by/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Webinar Agility by Tim Logan</title>
       <link>/coverage/tim_logan_ecis_agility_webinar_linkedin/</link>
       <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
@@ -869,6 +885,14 @@ Questions: Paul Magnuson, &lt;a href=&#34;mailto:pmagnuson@las.ch&#34;&gt;pmagnu
     </item>
     
     <item>
+      <title>Unschool</title>
+      <link>/publication/concordia_worldview_unschool/</link>
+      <pubDate>Mon, 02 Dec 2019 20:34:04 +0200</pubDate>
+      <guid>/publication/concordia_worldview_unschool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Patient Explanations Lead to Good Things</title>
       <link>/publication/patient_explanations_spotlight_article/</link>
       <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
@@ -886,9 +910,9 @@ Questions: Paul Magnuson, &lt;a href=&#34;mailto:pmagnuson@las.ch&#34;&gt;pmagnu
     
     <item>
       <title>Peak Learning</title>
-      <link>/peak_learning/</link>
+      <link>/edgility/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/peak_learning/</guid>
+      <guid>/edgility/</guid>
       <description>&lt;p&gt;&lt;strong&gt;The Core of Agile in Education&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;
 &lt;p&gt;In our chapter Getting Agile at School in Agile and Lean Concepts for Teaching and Learning, four of us LAS faculty members presented what we felt at the time were the central tenets, for us, of an agile mindset in education.&lt;/p&gt;
@@ -967,6 +991,14 @@ lessons.&lt;/li&gt;
       <link>/publication/introducing_edgility_laser_report_2017/</link>
       <pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
       <guid>/publication/introducing_edgility_laser_report_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond the Classroom: Expanding the Notion of Self-regulated Learning</title>
+      <link>/publication/las_panorama_beyond_the_classroom/</link>
+      <pubDate>Thu, 02 Mar 2017 20:36:29 +0200</pubDate>
+      <guid>/publication/las_panorama_beyond_the_classroom/</guid>
       <description></description>
     </item>
     

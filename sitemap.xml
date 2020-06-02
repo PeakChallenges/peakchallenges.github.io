@@ -158,17 +158,62 @@
   </url>
   
   <url>
+    <loc>/publication-type/9/</loc>
+    <lastmod>2020-12-22T20:35:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-12-22T20:35:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/classroom-observation/</loc>
+    <lastmod>2020-12-22T20:35:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/paul-magnuson/</loc>
+    <lastmod>2020-12-22T20:35:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-12-22T20:35:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/professional-development/</loc>
+    <lastmod>2020-12-22T20:35:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-12-22T20:35:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-12-22T20:35:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-12-22T20:35:18+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/laser_teacherless_observations/</loc>
+    <lastmod>2020-12-22T20:35:18+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/adventure/</loc>
     <lastmod>2020-06-01T16:57:16+02:00</lastmod>
   </url>
   
   <url>
     <loc>/category/agile/</loc>
-    <lastmod>2020-06-01T16:57:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
     <lastmod>2020-06-01T16:57:16+02:00</lastmod>
   </url>
   
@@ -223,22 +268,12 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-06-01T16:57:16+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/</loc>
     <lastmod>2020-06-01T16:57:16+02:00</lastmod>
   </url>
   
   <url>
     <loc>/tag/student-choice/</loc>
-    <lastmod>2020-06-01T16:57:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-06-01T16:57:16+02:00</lastmod>
   </url>
   
@@ -279,11 +314,6 @@
   
   <url>
     <loc>/tag/kanban/</loc>
-    <lastmod>2020-05-23T11:02:14+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/paul-magnuson/</loc>
     <lastmod>2020-05-23T11:02:14+02:00</lastmod>
   </url>
   
@@ -363,11 +393,6 @@
   </url>
   
   <url>
-    <loc>/tag/professional-development/</loc>
-    <lastmod>2020-05-23T10:34:47+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/sharing/</loc>
     <lastmod>2020-05-23T10:34:47+02:00</lastmod>
   </url>
@@ -380,6 +405,21 @@
   <url>
     <loc>/challenges/</loc>
     <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/4/</loc>
+    <lastmod>2020-05-02T20:32:53+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/nicole-cosgrove/</loc>
+    <lastmod>2020-05-02T20:32:53+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/laser_examples_to_learn_by/</loc>
+    <lastmod>2020-05-02T20:32:53+02:00</lastmod>
   </url>
   
   <url>
@@ -403,17 +443,7 @@
   </url>
   
   <url>
-    <loc>/publication-type/9/</loc>
-    <lastmod>2020-04-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/coverage/</loc>
-    <lastmod>2020-04-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
     <lastmod>2020-04-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -449,11 +479,6 @@
   
   <url>
     <loc>/tag/feedback/</loc>
-    <lastmod>2020-02-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
     <lastmod>2020-02-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -543,6 +568,11 @@
   </url>
   
   <url>
+    <loc>/publication/concordia_worldview_unschool/</loc>
+    <lastmod>2019-12-02T20:34:04+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication-type/2/</loc>
     <lastmod>2019-10-16T00:00:00+00:00</lastmod>
   </url>
@@ -588,7 +618,7 @@
   </url>
   
   <url>
-    <loc>/peak_learning/</loc>
+    <loc>/edgility/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
@@ -605,11 +635,6 @@
   <url>
     <loc>/publication/designed_to_float_your_boat_article/</loc>
     <lastmod>2018-04-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/4/</loc>
-    <lastmod>2017-03-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -630,6 +655,21 @@
   <url>
     <loc>/tag/small-experiments/</loc>
     <lastmod>2017-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/las_panorama_beyond_the_classroom/</loc>
+    <lastmod>2017-03-02T20:36:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/learning/</loc>
+    <lastmod>2017-03-02T20:36:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/students/</loc>
+    <lastmod>2017-03-02T20:36:29+02:00</lastmod>
   </url>
   
   <url>

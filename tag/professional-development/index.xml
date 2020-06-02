@@ -5,12 +5,20 @@
     <link>/tag/professional-development/</link>
       <atom:link href="/tag/professional-development/index.xml" rel="self" type="application/rss+xml" />
     <description>Professional Development</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 23 May 2020 10:34:47 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Dec 2020 20:35:18 +0200</lastBuildDate>
     <image>
       <url>/images/logo_hu03daf2b5ac51fd5e97da0fc2e3a0f1cd_98650_300x300_fit_lanczos_2.png</url>
       <title>Professional Development</title>
       <link>/tag/professional-development/</link>
     </image>
+    
+    <item>
+      <title>Teacherless observations</title>
+      <link>/publication/laser_teacherless_observations/</link>
+      <pubDate>Tue, 22 Dec 2020 20:35:18 +0200</pubDate>
+      <guid>/publication/laser_teacherless_observations/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ECIS Blog</title>
