@@ -5,12 +5,20 @@
     <link>/tag/students/</link>
       <atom:link href="/tag/students/index.xml" rel="self" type="application/rss+xml" />
     <description>students</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Mar 2017 20:36:29 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 02 May 2020 20:32:53 +0200</lastBuildDate>
     <image>
       <url>/images/logo_hu03daf2b5ac51fd5e97da0fc2e3a0f1cd_98650_300x300_fit_lanczos_2.png</url>
       <title>students</title>
       <link>/tag/students/</link>
     </image>
+    
+    <item>
+      <title>Pulling Agile into Education: Examples to learn by</title>
+      <link>/publication/las_laser_pulling_agile_into_edu_examples_to_learn_by/</link>
+      <pubDate>Sat, 02 May 2020 20:32:53 +0200</pubDate>
+      <guid>/publication/las_laser_pulling_agile_into_edu_examples_to_learn_by/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Beyond the Classroom: Expanding the Notion of Self-regulated Learning</title>

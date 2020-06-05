@@ -198,6 +198,11 @@
   </url>
   
   <url>
+    <loc>/</loc>
+    <lastmod>2020-12-22T20:35:18+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/professional-development/</loc>
     <lastmod>2020-12-22T20:35:18+02:00</lastmod>
   </url>
@@ -243,6 +248,11 @@
   </url>
   
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2020-06-03T16:57:16+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/engagement/</loc>
     <lastmod>2020-06-03T16:57:16+02:00</lastmod>
   </url>
@@ -259,16 +269,6 @@
   
   <url>
     <loc>/tag/joy/</loc>
-    <lastmod>2020-06-03T16:57:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/</loc>
-    <lastmod>2020-06-03T16:57:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/student/</loc>
     <lastmod>2020-06-03T16:57:16+02:00</lastmod>
   </url>
   
@@ -333,6 +333,11 @@
   </url>
   
   <url>
+    <loc>/tag/student/</loc>
+    <lastmod>2020-05-23T11:02:14+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/product/student_challenges/</loc>
     <lastmod>2020-05-23T11:02:14+02:00</lastmod>
   </url>
@@ -368,12 +373,27 @@
   </url>
   
   <url>
+    <loc>/tag/learning/</loc>
+    <lastmod>2020-05-02T20:32:53+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/nicole-cosgrove/</loc>
     <lastmod>2020-05-02T20:32:53+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/las_laser_examples_to_learn_by/</loc>
+    <loc>/publication/las_laser_pulling_agile_into_edu_examples_to_learn_by/</loc>
+    <lastmod>2020-05-02T20:32:53+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/students/</loc>
+    <lastmod>2020-05-02T20:32:53+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/agile-education/</loc>
     <lastmod>2020-05-02T20:32:53+02:00</lastmod>
   </url>
   
@@ -399,11 +419,6 @@
   
   <url>
     <loc>/coverage/</loc>
-    <lastmod>2020-04-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/reflection/</loc>
     <lastmod>2020-04-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -533,7 +548,17 @@
   </url>
   
   <url>
+    <loc>/tag/alternative-education/</loc>
+    <lastmod>2019-12-02T20:34:04+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/concordia_worldview_unschool/</loc>
+    <lastmod>2019-12-02T20:34:04+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/unschool/</loc>
     <lastmod>2019-12-02T20:34:04+02:00</lastmod>
   </url>
   
@@ -583,11 +608,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/edgility/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
@@ -618,22 +638,17 @@
   </url>
   
   <url>
+    <loc>/tag/reflection/</loc>
+    <lastmod>2017-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/small-experiments/</loc>
     <lastmod>2017-03-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/las_panorama_beyond_the_classroom/</loc>
-    <lastmod>2017-03-02T20:36:29+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/learning/</loc>
-    <lastmod>2017-03-02T20:36:29+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/students/</loc>
     <lastmod>2017-03-02T20:36:29+02:00</lastmod>
   </url>
   

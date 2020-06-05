@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>alternative education | Peak Challenges</title>
+    <link>/tag/alternative-education/</link>
+      <atom:link href="/tag/alternative-education/index.xml" rel="self" type="application/rss+xml" />
+    <description>alternative education</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Dec 2019 20:34:04 +0200</lastBuildDate>
+    <image>
+      <url>/images/logo_hu03daf2b5ac51fd5e97da0fc2e3a0f1cd_98650_300x300_fit_lanczos_2.png</url>
+      <title>alternative education</title>
+      <link>/tag/alternative-education/</link>
+    </image>
+    
+    <item>
+      <title>Unschool</title>
+      <link>/publication/concordia_worldview_unschool/</link>
+      <pubDate>Mon, 02 Dec 2019 20:34:04 +0200</pubDate>
+      <guid>/publication/concordia_worldview_unschool/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
