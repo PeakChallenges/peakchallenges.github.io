@@ -13,6 +13,41 @@
     </image>
     
     <item>
+      <title>ECIS Blog</title>
+      <link>/collaboration/ecis_blog/</link>
+      <pubDate>Sat, 23 May 2020 10:34:47 +0200</pubDate>
+      <guid>/collaboration/ecis_blog/</guid>
+      <description>&lt;p&gt;EdStudio, with Paul, on educational topics for the Educational Collaborative for International Schools&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ECIS Webinars</title>
+      <link>/collaboration/ecis_webinars/</link>
+      <pubDate>Sat, 23 May 2020 10:34:47 +0200</pubDate>
+      <guid>/collaboration/ecis_webinars/</guid>
+      <description>&lt;p&gt;A series of talks for the Educational Collaborative for International Schools with co-hosts from Spain, Switzerland, Turkey, and the United States.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TIE Online</title>
+      <link>/collaboration/tieonline_blog/</link>
+      <pubDate>Sat, 23 May 2020 10:34:47 +0200</pubDate>
+      <guid>/collaboration/tieonline_blog/</guid>
+      <description>&lt;p&gt;Teaching Your Way Around the World - the blog of The International Educator&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>InnClass</title>
+      <link>/collaboration/innclass/</link>
+      <pubDate>Sat, 23 May 2020 10:34:47 +0200</pubDate>
+      <guid>/collaboration/innclass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Teacherless observations</title>
       <link>/publication/las_laser_teacherless_observations/</link>
       <pubDate>Tue, 22 Dec 2020 20:35:18 +0200</pubDate>
@@ -83,41 +118,6 @@
       <pubDate>Sat, 23 May 2020 11:02:14 +0200</pubDate>
       <guid>/product/student_challenges/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>ECIS Blog</title>
-      <link>/collaboration/ecis_blog/</link>
-      <pubDate>Sat, 23 May 2020 10:34:47 +0200</pubDate>
-      <guid>/collaboration/ecis_blog/</guid>
-      <description>&lt;p&gt;EdStudio, with Paul, on educational topics for the Educational Collaborative for International Schools&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ECIS Webinars</title>
-      <link>/collaboration/ecis_webinars/</link>
-      <pubDate>Sat, 23 May 2020 10:34:47 +0200</pubDate>
-      <guid>/collaboration/ecis_webinars/</guid>
-      <description>&lt;p&gt;A series of talks for the Educational Collaborative for International Schools with co-hosts from Spain, Switzerland, Turkey, and the United States.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>InnClass</title>
-      <link>/collaboration/innclass/</link>
-      <pubDate>Sat, 23 May 2020 10:34:47 +0200</pubDate>
-      <guid>/collaboration/innclass/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TIE Online</title>
-      <link>/collaboration/tieonline_blog/</link>
-      <pubDate>Sat, 23 May 2020 10:34:47 +0200</pubDate>
-      <guid>/collaboration/tieonline_blog/</guid>
-      <description>&lt;p&gt;Teaching Your Way Around the World - the blog of The International Educator&lt;/p&gt;
-</description>
     </item>
     
     <item>
