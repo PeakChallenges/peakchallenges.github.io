@@ -24,7 +24,7 @@
   
   <url>
     <loc>/challenges/student_challenges/</loc>
-    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -298,6 +298,11 @@
   </url>
   
   <url>
+    <loc>/tag/consulting/</loc>
+    <lastmod>2020-05-23T11:02:14+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/faculty/</loc>
     <lastmod>2020-05-23T11:02:14+02:00</lastmod>
   </url>
@@ -343,7 +348,22 @@
   </url>
   
   <url>
+    <loc>/tag/admin/</loc>
+    <lastmod>2020-05-23T10:34:47+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/collaboration/</loc>
+    <lastmod>2020-05-23T10:34:47+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/collaboration/</loc>
+    <lastmod>2020-05-23T10:34:47+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/crowd-sourced/</loc>
     <lastmod>2020-05-23T10:34:47+02:00</lastmod>
   </url>
   
@@ -364,11 +384,16 @@
   
   <url>
     <loc>/challenges/</loc>
-    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication-type/4/</loc>
+    <lastmod>2020-05-02T20:32:53+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/agile-education/</loc>
     <lastmod>2020-05-02T20:32:53+02:00</lastmod>
   </url>
   
@@ -389,11 +414,6 @@
   
   <url>
     <loc>/tag/students/</loc>
-    <lastmod>2020-05-02T20:32:53+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/agile-education/</loc>
     <lastmod>2020-05-02T20:32:53+02:00</lastmod>
   </url>
   
@@ -423,7 +443,7 @@
   </url>
   
   <url>
-    <loc>/tag/reflections/</loc>
+    <loc>/tag/reflection/</loc>
     <lastmod>2020-04-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -478,6 +498,11 @@
   </url>
   
   <url>
+    <loc>/tag/natural-consquences/</loc>
+    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/non-judgemental/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url>
@@ -523,16 +548,6 @@
   </url>
   
   <url>
-    <loc>/tag/multiple-levels/</loc>
-    <lastmod>2019-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/collaboration/</loc>
-    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/manifesto/</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
   </url>
@@ -568,17 +583,7 @@
   </url>
   
   <url>
-    <loc>/tag/agie/</loc>
-    <lastmod>2019-10-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/las_spotlight_patient_explanations/</loc>
-    <lastmod>2019-10-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/student-coice/</loc>
     <lastmod>2019-10-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -628,22 +633,17 @@
   </url>
   
   <url>
-    <loc>/tag/agility/</loc>
+    <loc>/tag/experiments/</loc>
+    <lastmod>2017-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/explore/</loc>
     <lastmod>2017-03-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/las_laser_introducing_edgility_report_2017/</loc>
-    <lastmod>2017-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/reflection/</loc>
-    <lastmod>2017-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/small-experiments/</loc>
     <lastmod>2017-03-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -654,6 +654,16 @@
   
   <url>
     <loc>/coverage/agile_in_education_interview_scrum_alliance/</loc>
+    <lastmod>2017-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/agility/</loc>
+    <lastmod>2017-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/context/</loc>
     <lastmod>2017-01-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -683,12 +693,12 @@
   </url>
   
   <url>
-    <loc>/tag/john-miller/</loc>
+    <loc>/author/john-miller/</loc>
     <lastmod>2015-05-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/john-miller/</loc>
+    <loc>/tag/john-miller/</loc>
     <lastmod>2015-05-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -699,6 +709,11 @@
   
   <url>
     <loc>/tag/scrum-workshop/</loc>
+    <lastmod>2015-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/scrum-alliance/</loc>
     <lastmod>2015-05-26T00:00:00+00:00</lastmod>
   </url>
   

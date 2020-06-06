@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>context | Peak Challenges</title>
+    <link>/tag/context/</link>
+      <atom:link href="/tag/context/index.xml" rel="self" type="application/rss+xml" />
+    <description>context</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/logo_hu03daf2b5ac51fd5e97da0fc2e3a0f1cd_98650_300x300_fit_lanczos_2.png</url>
+      <title>context</title>
+      <link>/tag/context/</link>
+    </image>
+    
+    <item>
+      <title>Agile in Education: Bill Tihen and Paul Magnuson of Leysin American School</title>
+      <link>/coverage/agile_in_education_interview_scrum_alliance/</link>
+      <pubDate>Tue, 17 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/coverage/agile_in_education_interview_scrum_alliance/</guid>
+      <description>&lt;p&gt;A discussion with Scrum Alliance on the importance of bringing Agile into Educaion and a few important implementation points.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/cV8UQvNcN9s&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Agile | Peak Challenges</title>
+    <title>agile | Peak Challenges</title>
     <link>/tag/agile/</link>
       <atom:link href="/tag/agile/index.xml" rel="self" type="application/rss+xml" />
-    <description>Agile</description>
+    <description>agile</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 23 May 2020 11:02:14 +0200</lastBuildDate>
     <image>
       <url>/images/logo_hu03daf2b5ac51fd5e97da0fc2e3a0f1cd_98650_300x300_fit_lanczos_2.png</url>
-      <title>Agile</title>
+      <title>agile</title>
       <link>/tag/agile/</link>
     </image>
     
@@ -82,6 +82,14 @@
     </item>
     
     <item>
+      <title>Patient Explanations Lead to Good Things</title>
+      <link>/publication/las_spotlight_patient_explanations/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/las_spotlight_patient_explanations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Getting Agile at School</title>
       <link>/publication/springer_getting_agile_at_school_chapter/</link>
       <pubDate>Tue, 16 Apr 2019 18:04:29 +0200</pubDate>
@@ -104,6 +112,14 @@
 &lt;p&gt;Student Retrospective Guide
 &lt;img src=&#34;boat_retrospectives.png&#34; alt=&#34;Student Retrospective Guide&#34;&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Introducing EDgility</title>
+      <link>/publication/las_laser_introducing_edgility_report_2017/</link>
+      <pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/las_laser_introducing_edgility_report_2017/</guid>
+      <description></description>
     </item>
     
     <item>

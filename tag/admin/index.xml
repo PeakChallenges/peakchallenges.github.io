@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin | Peak Challenges</title>
+    <link>/tag/admin/</link>
+      <atom:link href="/tag/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>admin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 23 May 2020 10:34:47 +0200</lastBuildDate>
+    <image>
+      <url>/images/logo_hu03daf2b5ac51fd5e97da0fc2e3a0f1cd_98650_300x300_fit_lanczos_2.png</url>
+      <title>admin</title>
+      <link>/tag/admin/</link>
+    </image>
+    
+    <item>
+      <title>ECIS Blog</title>
+      <link>/collaboration/ecis_blog/</link>
+      <pubDate>Sat, 23 May 2020 10:34:47 +0200</pubDate>
+      <guid>/collaboration/ecis_blog/</guid>
+      <description>&lt;p&gt;EdStudio, with Paul, on educational topics for the Educational Collaborative for International Schools&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

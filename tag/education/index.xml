@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Education | Peak Challenges</title>
+    <title>education | Peak Challenges</title>
     <link>/tag/education/</link>
       <atom:link href="/tag/education/index.xml" rel="self" type="application/rss+xml" />
-    <description>Education</description>
+    <description>education</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 23 May 2020 10:34:47 +0200</lastBuildDate>
     <image>
       <url>/images/logo_hu03daf2b5ac51fd5e97da0fc2e3a0f1cd_98650_300x300_fit_lanczos_2.png</url>
-      <title>Education</title>
+      <title>education</title>
       <link>/tag/education/</link>
     </image>
     
@@ -139,14 +139,6 @@
 &lt;p&gt;Student Retrospective Guide
 &lt;img src=&#34;boat_retrospectives.png&#34; alt=&#34;Student Retrospective Guide&#34;&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Introducing EDgility</title>
-      <link>/publication/las_laser_introducing_edgility_report_2017/</link>
-      <pubDate>Mon, 13 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/las_laser_introducing_edgility_report_2017/</guid>
-      <description></description>
     </item>
     
     <item>

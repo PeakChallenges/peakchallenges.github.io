@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Administration | Peak Challenges</title>
+    <title>administration | Peak Challenges</title>
     <link>/tag/administration/</link>
       <atom:link href="/tag/administration/index.xml" rel="self" type="application/rss+xml" />
-    <description>Administration</description>
+    <description>administration</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 23 May 2020 11:02:14 +0200</lastBuildDate>
     <image>
       <url>/images/logo_hu03daf2b5ac51fd5e97da0fc2e3a0f1cd_98650_300x300_fit_lanczos_2.png</url>
-      <title>Administration</title>
+      <title>administration</title>
       <link>/tag/administration/</link>
     </image>
     

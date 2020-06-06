@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>People Focus | Peak Challenges</title>
+    <title>people focus | Peak Challenges</title>
     <link>/tag/people-focus/</link>
       <atom:link href="/tag/people-focus/index.xml" rel="self" type="application/rss+xml" />
-    <description>People Focus</description>
+    <description>people focus</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/logo_hu03daf2b5ac51fd5e97da0fc2e3a0f1cd_98650_300x300_fit_lanczos_2.png</url>
-      <title>People Focus</title>
+      <title>people focus</title>
       <link>/tag/people-focus/</link>
     </image>
     
