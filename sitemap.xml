@@ -18,11 +18,6 @@
   </url>
   
   <url>
-    <loc>/collaboration/innclass/</loc>
-    <lastmod>2020-05-23T10:34:47+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/challenges/student_challenges/</loc>
     <lastmod>2020-06-06T00:00:00+00:00</lastmod>
   </url>
@@ -198,11 +193,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-12-22T20:35:18+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tag/professional-development/</loc>
     <lastmod>2020-12-22T20:35:18+02:00</lastmod>
   </url>
@@ -273,6 +263,11 @@
   </url>
   
   <url>
+    <loc>/tag/student/</loc>
+    <lastmod>2020-06-03T16:57:16+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/student-choice/</loc>
     <lastmod>2020-06-03T16:57:16+02:00</lastmod>
   </url>
@@ -280,6 +275,11 @@
   <url>
     <loc>/tag/trust/</loc>
     <lastmod>2020-06-03T16:57:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/admin/</loc>
+    <lastmod>2020-05-23T11:02:14+02:00</lastmod>
   </url>
   
   <url>
@@ -338,32 +338,12 @@
   </url>
   
   <url>
-    <loc>/tag/student/</loc>
-    <lastmod>2020-05-23T11:02:14+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/product/student_challenges/</loc>
     <lastmod>2020-05-23T11:02:14+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/admin/</loc>
-    <lastmod>2020-05-23T10:34:47+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/collaboration/</loc>
-    <lastmod>2020-05-23T10:34:47+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/collaboration/</loc>
-    <lastmod>2020-05-23T10:34:47+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/crowd-sourced/</loc>
     <lastmod>2020-05-23T10:34:47+02:00</lastmod>
   </url>
   
@@ -548,6 +528,11 @@
   </url>
   
   <url>
+    <loc>/tag/collaboration/</loc>
+    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/manifesto/</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
   </url>
@@ -610,6 +595,11 @@
   <url>
     <loc>/tag/project-based/</loc>
     <lastmod>2019-04-16T18:04:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
