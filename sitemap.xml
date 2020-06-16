@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/product/student_challenges/</loc>
+    <lastmod>2020-05-23T11:02:14+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/collaboration/ecis_blog/</loc>
     <lastmod>2020-05-23T10:34:47+02:00</lastmod>
   </url>
@@ -243,6 +248,11 @@
   </url>
   
   <url>
+    <loc>/category/edgile/</loc>
+    <lastmod>2020-06-03T16:57:16+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/engagement/</loc>
     <lastmod>2020-06-03T16:57:16+02:00</lastmod>
   </url>
@@ -259,6 +269,11 @@
   
   <url>
     <loc>/tag/joy/</loc>
+    <lastmod>2020-06-03T16:57:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/practice/</loc>
     <lastmod>2020-06-03T16:57:16+02:00</lastmod>
   </url>
   
@@ -334,11 +349,6 @@
   
   <url>
     <loc>/tag/smallify/</loc>
-    <lastmod>2020-05-23T11:02:14+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/product/student_challenges/</loc>
     <lastmod>2020-05-23T11:02:14+02:00</lastmod>
   </url>
   
@@ -598,12 +608,12 @@
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/edgility/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/edgility/</loc>
+    <loc>/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
