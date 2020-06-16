@@ -233,17 +233,37 @@
   </url>
   
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2020-06-16T16:39:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/edgility_admin_faculty_trust/</loc>
+    <lastmod>2020-06-16T16:39:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/model/</loc>
+    <lastmod>2020-06-16T16:39:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/practice/</loc>
+    <lastmod>2020-06-16T16:39:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/trust/</loc>
+    <lastmod>2020-06-16T16:39:12+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/adventure/</loc>
     <lastmod>2020-06-03T16:57:16+02:00</lastmod>
   </url>
   
   <url>
     <loc>/author/bill-tihen/</loc>
-    <lastmod>2020-06-03T16:57:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/</loc>
     <lastmod>2020-06-03T16:57:16+02:00</lastmod>
   </url>
   
@@ -284,11 +304,6 @@
   
   <url>
     <loc>/tag/student-choice/</loc>
-    <lastmod>2020-06-03T16:57:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/trust/</loc>
     <lastmod>2020-06-03T16:57:16+02:00</lastmod>
   </url>
   
